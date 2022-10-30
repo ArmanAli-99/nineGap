@@ -1,0 +1,15 @@
+.rightImg{
+    position:absolute;
+    left:20%;
+    background-image: url('Images/banneriPhone.png');
+    height: 700px;
+    overflow: hidden;
+}
+.signUpBtn{
+    font-size: 22px;
+    padding: 10px 20px;
+    border-radius: 25px;
+    background-color: rgb(58, 149, 191);
+    color: #ffff;
+    border: none;
+}
